@@ -6,3 +6,11 @@ Image contrast enhancement is a subjective problem depending on personal prefere
 
 
 # result 
+First algorithm on the training
+![first_algorithm_training](https://user-images.githubusercontent.com/57870274/202898176-f3d371e6-b866-48e6-ae5c-f6dc7f9dc020.png)
+Second algorithm on the training
+![second_alg](https://user-images.githubusercontent.com/57870274/202898164-27ca11db-dde6-42a2-9f23-1cb2a92b464f.png)
+ training evaluation
+ ![evaluation](https://user-images.githubusercontent.com/57870274/202898189-a1e01ff9-0a4d-4558-a6ba-a7a85754ff75.jpg)
+ Test
+![test_img](https://user-images.githubusercontent.com/57870274/202898193-eb559bd2-6603-4742-8922-3d036c0fbb3f.jpg)
