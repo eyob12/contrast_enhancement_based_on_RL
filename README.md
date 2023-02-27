@@ -4,7 +4,7 @@
 Abstract:
 Image contrast enhancement is a subjective problem depending on personal preference and subject field property. In this paper, we proposed a simple and efficient reinforcement learning based image contrast enhancement method for personal preference. Our method consists of state, action, reward or punishment definition, and policy learning. We have implemented Q-learning and State Action Reward State Action(SARSA) algorithms. The training process is easy for any user by clicking some buttons in our developed graphical user interface. The experimental results demonstrate good performance of our proposed method in this paper.
 
-
+https://ieeexplore.ieee.org/abstract/document/10016571
 # result 
 First algorithm on the training
 ![first_algorithm_training](https://user-images.githubusercontent.com/57870274/202898176-f3d371e6-b866-48e6-ae5c-f6dc7f9dc020.png)
